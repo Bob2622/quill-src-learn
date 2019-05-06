@@ -1,29 +1,4 @@
-# test
+### tip
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* 直接 copy 源码到项目目录, 引用 copy 的源码，修改调试
+* 整个项目 import 全都使用 copy 的源码, 禁止部分使用 node_modules 下的, 可能会出现诡异问题
